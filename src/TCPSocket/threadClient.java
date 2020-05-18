@@ -6,9 +6,7 @@ import java.util.Scanner;
 public class threadClient {
 
 	// Java implementation for a client 
-	// Save file as Client.java 
-
-	
+		
 		public static void main(String[] args) throws IOException 
 		{ 
 			try
